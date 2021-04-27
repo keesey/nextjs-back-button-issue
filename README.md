@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+It is intended as a minimal project to recreate this issue: [https://github.com/vercel/next.js/issues/24532](https://github.com/vercel/next.js/issues/24532).
 
 ## Getting Started
 
