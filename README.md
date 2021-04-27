@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Reproducing the Error
 
-Once you have opened [http://localhost:3000](http://localhost:3000), follow thesw steps:
+Once you have opened [http://localhost:3000](http://localhost:3000), follow these steps:
 
 1. Click on "Open Search Page with Query".
 2. Click on "Go to Anchor".
